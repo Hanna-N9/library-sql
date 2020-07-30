@@ -1,2 +1,3 @@
 # library-sql
-Combined with sql and python
+Diagrams of Library: Entity Relationship Diagram (ERD), Use Cases, Activity Diagram, and Domain class
+SQL and Python codes 
